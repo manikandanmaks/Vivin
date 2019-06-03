@@ -1,0 +1,11 @@
+E:\vivin\VivinComputers\VivinComputers\bin\Debug\netcoreapp2.1\VivinComputers.deps.json
+E:\vivin\VivinComputers\VivinComputers\bin\Debug\netcoreapp2.1\VivinComputers.runtimeconfig.json
+E:\vivin\VivinComputers\VivinComputers\bin\Debug\netcoreapp2.1\VivinComputers.runtimeconfig.dev.json
+E:\vivin\VivinComputers\VivinComputers\bin\Debug\netcoreapp2.1\VivinComputers.dll
+E:\vivin\VivinComputers\VivinComputers\bin\Debug\netcoreapp2.1\VivinComputers.pdb
+E:\vivin\VivinComputers\VivinComputers\obj\Debug\netcoreapp2.1\VivinComputers.csprojAssemblyReference.cache
+E:\vivin\VivinComputers\VivinComputers\obj\Debug\netcoreapp2.1\VivinComputers.csproj.CoreCompileInputs.cache
+E:\vivin\VivinComputers\VivinComputers\obj\Debug\netcoreapp2.1\VivinComputers.AssemblyInfoInputs.cache
+E:\vivin\VivinComputers\VivinComputers\obj\Debug\netcoreapp2.1\VivinComputers.AssemblyInfo.cs
+E:\vivin\VivinComputers\VivinComputers\obj\Debug\netcoreapp2.1\VivinComputers.dll
+E:\vivin\VivinComputers\VivinComputers\obj\Debug\netcoreapp2.1\VivinComputers.pdb
